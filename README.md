@@ -1,6 +1,5 @@
-# PTL
-
-This is the inital repository for the Public Thermodynamics lab
+# Cycles GUI
+The Cycles GUI runs basic nucleation experiments on the meecom temperature controller for the Public Thermodynamics Lab.
 
 ## Usage
 Download the python code and run supercooling_GUI.py
